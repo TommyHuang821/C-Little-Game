@@ -1,4 +1,4 @@
-# This repository is two little game.
+# This repository has two little games.
 First, nanb, that compouter would give a random number (four not repeating number, for example 1234), the player has to guess a 4 number serie. For instance, guess 1567 → 1a0b, 1278 → 2a0b, 1782 → 1a1b, 1234 → 4a. 
 ![alt tag](https://github.com/TommyHuang821/C-Little-Game/blob/master/nanb.png)
 
